@@ -1,19 +1,22 @@
 <div align="center">
-
-# 🌌 DEVIN SPEARS
-### ⚡ Full-Stack, Systems & UI Engineer ⚡
-Engineering low-latency systems, scalable backend architectures, and fluid user experiences.
-
----
-
-<a href="https://www.linkedin.com/in/devin-spears-49b194240/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<img src="https://komarev.com/ghvc/?username=SpearsDevin&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
-
----
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f232a&height=180&text=DEVIN%20SPEARS&textColor=00d2ff&fontSize=75&fontShape=bold&animation=twinkling" width="100%" alt="Devin Spears" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h2>⚡ Full-Stack, Systems & UI Engineer ⚡</h2>
+  <p>Engineering low-latency systems, scalable backend architectures, and fluid user experiences.</p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/devin-spears-49b194240/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghvc/?username=SpearsDevin&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
+
+---
 
 <div align="center">
 
@@ -47,11 +50,15 @@ Engineering low-latency systems, scalable backend architectures, and fluid user 
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=SpearsDevin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Devin's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpearsDevin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpearsDevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SpearsDevin&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Devin's GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpearsDevin&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpearsDevin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
