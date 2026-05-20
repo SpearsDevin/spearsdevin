@@ -6,7 +6,7 @@ Engineering low-latency backends, fluid user interfaces, and custom hardware int
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=1f232a)](https://spearsdevin.github.io/portfolio/)
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-spears-49b194240/)
 
 ---
