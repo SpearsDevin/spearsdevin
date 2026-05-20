@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
+# <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
 ### ⚡ Full-Stack, Systems & UI Engineer ⚡
 
 <br/>
