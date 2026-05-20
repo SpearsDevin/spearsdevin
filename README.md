@@ -1,13 +1,16 @@
-
-<div align="center"> <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
+#<div align="center"> <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
 ### ⚡ Full-Stack, Systems & 3D Hardware Engineer ⚡
 Engineering low-latency backends, fluid user interfaces, and custom hardware integrations.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/LIVE_PORTFOLIO-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=1f232a)](https://spearsdevin.github.io/portfolio/)
+<a href="https://spearsdevin.github.io/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=1f232a" alt="Portfolio" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devin-spears-49b194240/)
+<a href="https://www.linkedin.com/in/devin-spears-49b194240/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
