@@ -1,7 +1,12 @@
 <div align="center">
 
-# <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
-### ⚡ Full-Stack, Systems & UI Engineer ⚡
+<img src="https://raw.githubusercontent.com/SpearsDevin/portfolio/main/assets/github-profile-banner.png" width="100%" alt="Devin Spears Banner" onerror="this.onerror=null; this.src='https://capsule-render.vercel.app/api?type=rect&color=1f232a&height=200&text=DEVIN%20SPEARS&textColor=00d2ff&fontSize=70&fontShape=bold&animation=twinkling';" />
+
+<br/>
+
+# 🌌 <span style="color:#00d2ff; font-family:monospace; font-size:42px; font-weight:bold; letter-spacing: 2px;">DEVIN SPEARS</span>
+### ⚡ Full-Stack, Systems & 3D Hardware Engineer ⚡
+Engineering low-latency backends, fluid user interfaces, and custom hardware integrations.
 
 <br/>
 
@@ -11,67 +16,42 @@
 
 ---
 
-</div>
-
 ### 🚀 About Me
 
-* 💻 **Core Systems & Backend:** Designing robust, type-safe architectures, optimizing low-level performance, managing data pipelines, and building secure backends.
-* 🎨 **Frontend Engineering:** Crafting pixel-perfect, accessible, and high-performance user interfaces using **React**, **Next.js**, and **TypeScript**.
-* 🛠️ **Workflow Philosophy:** Leveraging modular design patterns, strict type safety, containerization, and advanced AI-driven development workflows.
-* ⚡ **Interests:** When I'm away from the terminal, I'm usually optimizing slicing profiles, tracking low-level mechanics, or fabricating physical components on my 3D printers.
+💻 **Core Systems & Backend:** Designing robust, type-safe architectures, optimizing low-level logic, and managing secure data streams.
+
+🎨 **Frontend Engineering:** Crafting pixel-perfect, accessible, and interactive user interfaces using **React**, **Next.js**, and **TypeScript**.
+
+🛠️ **Workflow Philosophy:** Utilizing advanced automation, structural containerization, and modular architecture models.
+
+⚡ **Hardware & Fabrication:** When I'm away from the terminal, I optimize micro-step mechanics, customize slicing profiles, and manufacture functional components on my 3D printers.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend & Interfaces</h4>
-      <ul>
-        <li><code>TypeScript</code> / <code>JavaScript</code></li>
-        <li><code>React</code> / <code>Next.js</code></li>
-        <li><code>HTML5</code> / <code>CSS3</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Systems</h4>
-      <ul>
-        <li><code>Node.js</code> / <code>Express</code></li>
-        <li><code>Java</code></li>
-        <li><code>Git</code> version control</li>
-        <li><code>GitHub Copilot</code> workflows</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Databases & Storage</h4>
-      <ul>
-        <li><code>PostgreSQL</code></li>
-        <li><code>MySQL</code></li>
-        <li><code>MongoDB</code></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🐳 Infrastructure & Tools</h4>
-      <ul>
-        <li><code>Docker</code> containerization</li>
-        <li><code>Linux</code> environments</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🌐 Frontend & Interfaces
+`TypeScript` • `Next.js` • `React` • `JavaScript` • `Tailwind CSS` • `HTML5 / CSS3`
+
+#### ⚙️ Backend & Systems
+`Node.js` • `Express` • `Java` • `REST APIs` • `Git` • `GitHub Copilot`
+
+#### 🗄️ Databases & Storage
+`PostgreSQL` • `MySQL` • `MongoDB`
+
+#### 🐳 Infrastructure & Tools
+`Docker` • `Linux` • `Netlify` • `Vercel`
 
 ---
 
-### 🔮 Featured Repositories & Focus
+### 🔮 Featured Repositories
 
-* **[AP-Computer-Science](https://github.com/SpearsDevin/AP-Computer-Science)** – Foundational algorithmic work, object-oriented concepts, and core data structure design implemented in Java.
-* **[ClashBot](https://github.com/SpearsDevin/ClashBot)** – Asynchronous event-driven automation utilizing external REST APIs to monitor and track high-frequency statistical updates.
+**[AP-Computer-Science](https://github.com/SpearsDevin/AP-Computer-Science)** Foundational algorithmic structures, object-oriented concepts, and clean data parsing architectures executed in Java.
+
+**[ClashBot](https://github.com/SpearsDevin/ClashBot)** Asynchronous, event-driven automation framework utilizing external data hooks to track and map live statistics.
 
 ---
 
-<div align="center">
-  <sub>Modernized natively via standard Markdown & HTML. Built by <a href="https://github.com/SpearsDevin">SpearsDevin</a>.</sub>
+<sub>Modernized natively via fluid layout templates. Built with ❤️ by <a href="https://github.com/SpearsDevin">SpearsDevin</a>.</sub>
+
 </div>
