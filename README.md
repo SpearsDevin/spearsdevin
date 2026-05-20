@@ -79,9 +79,3 @@
 
 #### 🤖 [ClashBot](https://github.com/SpearsDevin/ClashBot)
 > Asynchronous, event-driven automation framework utilizing external data hooks to track and map live statistics.
-
----
-
-<div align="center">
-<sub>Modernized natively via fluid layout templates. Built with ❤️ by <a href="https://github.com/SpearsDevin">SpearsDevin</a>.</sub>
-</div>
